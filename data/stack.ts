@@ -27,3 +27,6 @@ class Stack<T> {
     console.log(this.items.toString());
   }
 }
+
+// 使用栈
+const stack = new Stack<number>();
